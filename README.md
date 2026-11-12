@@ -1,7 +1,5 @@
 ## Hello hello 👋😄
 
-<img alt="Static Badge" src="https://img.shields.io/badge/welcome%20page">
-
 Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You can call me **Mialy** *(Pronounced as 'Mee-ah-Lee')*.
 
 🎓 I am currently pursuing my Master in Applied Computing, specializing in Artificial Intelligence at Taylor's University, Malaysia. 
@@ -13,9 +11,15 @@ Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You 
 🌃 In my personal time, I'm working on a data science project 
 
 ## Technical skills
-### 📁 Recent Projects I have completed
+### 🗄️ Recent Projects I have completed
 
-Support Vector Machine (SVM) for MNIST Digit Recognition built from scratch in Java. Kernel: Radial Basis Function, 
+📁🆕 Smart EV Campus Management for Taylor's University to calculate Energy consumption and predict usage, built with Python, deployed on Streamlit Cloud
+
+📁 Support Vector Machine (SVM) for MNIST Digit Recognition built from scratch in Java. Kernel: Radial Basis Function, optimized with Lagrange multipliers, achieved accuracy of 98%
+
+📁 Big Data Visualization and Prediction on historical data of metal prices from 1980 to the present and sentiment analysis of price changes from Twitter/X, charts created with plotly.js and website deployed on AWS.
+
+📁 
 
 
 ### Programming Languages 
@@ -26,13 +30,18 @@ Support Vector Machine (SVM) for MNIST Digit Recognition built from scratch in J
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
+### Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,maven,spring,bootstrap)](https://skillicons.dev)
+
 ### Cloud Computing
 
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-S3, DynamoDB, SageMaker, Endpoint API
+Tools I used: S3, DynamoDB, SageMaker, Endpoint API
 
 ### What I want to learn in the future:
+
 [![My Skills](https://skillicons.dev/icons?i=gcp,azure)](https://skillicons.dev)
 
 Programming Language I want to learn: **Erlang**
