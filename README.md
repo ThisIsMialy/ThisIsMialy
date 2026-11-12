@@ -8,7 +8,7 @@ Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You 
 
 🤖 + 📊 My current main interest is Artificial Intelligence and Big Data Analytics. I don't limit myself to only these areas; I have experience in Software Design, Engineering, Testing and Verification, and in Web Development.
 
-🌃 In my personal time, I'm working on a data science project. The goal is to get better at Python Pandas and NumPy, feature engineering, creating charts with Matplotlib and Seaborn and, most especially, machine learning with sklearn. I want to develop proper ML pipelines, Hyperparameter Tuning, and increase model accuracy. 
+🌃 In my personal time, I'm working on a data science project. The goal is to get better at Python Pandas and NumPy, feature engineering, creating charts with Matplotlib and Seaborn, and, most especially, machine learning with scikit-learn. I want to develop proper ML pipelines, Hyperparameter Tuning, and increase model accuracy. 
 
 🔖 Hackathon: October 2026 GenAI Hackathon
 
@@ -25,10 +25,18 @@ Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You 
 
 📁 Car Hire System to track, search, and update cars for a company, built with C++. 
 
+### IDEs I use
+
+[![My Skills](https://skillicons.dev/icons?i=pycharm,eclipse)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 
 ### Programming Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,cpp)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev) is the package I'm using right
 
 ### Frameworks and libraries
 
