@@ -8,8 +8,9 @@ Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You 
 
 🤖 + 📊 My current main interest is Artificial Intelligence and Big Data Analytics. I don't limit myself to only these areas; I have experience in Software Design, Engineering, Testing and Verification, and in Web Development.
 
-🌃 In my personal time, I'm working on a data science project using a dataset from NASA 
-The goal is to get better at Python Pandas and NumPy, feature engineering, creating charts with Matplotlib and Seaborn and, most especially, machine learning with sklearn. I want to develop proper ML pipelines, Hyperparameter Tuning, and increase model accuracy. 
+🌃 In my personal time, I'm working on a data science project. The goal is to get better at Python Pandas and NumPy, feature engineering, creating charts with Matplotlib and Seaborn and, most especially, machine learning with sklearn. I want to develop proper ML pipelines, Hyperparameter Tuning, and increase model accuracy. 
+
+🔖 Hackathon: October 2026 GenAI Hackathon
 
 ## Technical skills
 ### 🗄️ Projects I have completed
@@ -27,11 +28,11 @@ The goal is to get better at Python Pandas and NumPy, feature engineering, creat
 
 ### Programming Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,cpp,php)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,cpp)](https://skillicons.dev)]
 
-### Frameworks
+### Frameworks and libraries
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev)
 
 ### Web Development
 
@@ -54,6 +55,9 @@ Programming Language I want to learn: **Erlang**
 📧0399103@sd.taylors.edu.my
 
 ## Hobbies
+
 📺 Currently watching: Life Beyond series by melodysheep
-🎨 Improving my watercolour skills
-:
+
+🎨 Improving my watercolour skills for landscape painting
+
+🏡 Vegetable gardening
