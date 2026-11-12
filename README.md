@@ -1,6 +1,6 @@
 ## Hello hello 👋😄
 
-Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You can call me Mialy (Pronounced as 'Mee-ah-Lee').
+Welcome to my GitHub page. 🎉 My name is ANDRIANARIVONY NANTENAINA MIALY. You can call me **Mialy** *(Pronounced as 'Mee-ah-Lee')*.
 
 🎓 I am currently pursuing my Master in Applied Computing, specializing in Artificial Intelligence at Taylor's University, Malaysia. 
 
